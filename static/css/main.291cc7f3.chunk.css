@@ -1,2 +1,0 @@
-.home{display:flex;justify-content:center;align-items:center;font-size:30px;letter-spacing:10px;color:#999;height:70vh;background-color:#fff}.imageWrapper{position:relative;margin:10px 20px 10px 0}.imageWrapper img{width:280px;height:170px}.preview{position:absolute;top:75px;left:115px;color:#d8dde5;font-size:18px}.preview :hover{cursor:pointer}.delete{position:absolute;top:75px;left:140px;color:#d8dde5;font-size:18px}.delete :hover,.imgWrapper :hover{cursor:pointer}
-/*# sourceMappingURL=main.291cc7f3.chunk.css.map */
